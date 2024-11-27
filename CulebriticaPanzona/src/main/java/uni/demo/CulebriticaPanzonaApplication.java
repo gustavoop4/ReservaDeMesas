@@ -10,4 +10,4 @@ public class CulebriticaPanzonaApplication {
 		SpringApplication.run(CulebriticaPanzonaApplication.class, args);
 	}
 
-}
+}   
